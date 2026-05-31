@@ -1,0 +1,46 @@
+{
+  "name": "hw-ra-redux-toolkit",
+  "description": "Домашнее задание к занятию «Redux Toolkit» - Toolkit",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Alex-EDG/HW_ra_redux_toolkit.git"
+  },
+  "author": "Alexey Neronov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-EDG/HW_ra_redux_toolkit/issues"
+  },
+  "homepage": "https://github.com/Alex-EDG/HW_ra_redux_toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.12.0",
+    "lucide-react": "^1.17.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "react-redux": "^9.3.0",
+    "react-router-dom": "^7.16.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^24.12.2",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "eslint": "^10.3.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "eslint-plugin-unused-imports": "^4.4.1",
+    "globals": "^17.5.0",
+    "typescript": "~6.0.2",
+    "typescript-eslint": "^8.58.2",
+    "vite": "^8.0.12"
+  }
+}
